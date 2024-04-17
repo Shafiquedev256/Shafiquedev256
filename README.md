@@ -1,4 +1,4 @@
-# Hello, I'm Shafiquedev256! 👋
+# Hello, I'm Shafiq! 👋
 
 Welcome to my GitHub profile. I'm passionate about creating things and constantly learning new technologies. Currently, I'm focused on mastering the MERN (MongoDB, Express.js, React, Node.js) stack with the addition of Tailwind CSS for styling and TypeScript for type safety.
 
