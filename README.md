@@ -36,21 +36,8 @@ Fuelled by Reactjs, Tailwindcss,Typescript, Nodejs, MongoDB, Express, Redux, and
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
-## Projects
+ ![Shafiquedev256's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafiquedev256&show_icons=true&theme=radical)
 
-- **Finders:** I created this website because my friend went missing once, and it was really tough. I wanted to help others who are searching for their missing loved ones. So, I created Finders to assist people in finding their missing loved ones. Users can use features like a community chat room to share information and support. The platform lets users post details about missing individuals, turning the search into a team effort.
-  - _Tech stack:_ Socket.io
-React
-Tailwind css
-Typescript
-Redux
-Express js
-Mongo DB
-  - _Link:_ [Project Link](https://finders.vercel.app/)
-  
-- **Tour Uganda:** Tour Uganda was created out of my deep love for my country. I wholeheartedly believe that Uganda is the Pearl of Africa, and I wanted to provide an opportunity for everyone with web access to discover its beauty. On Tiour Uganda, users can explore tourism sites, browse available tour packages, and find contact details for tour agents. Leveraging my MERN stack skills, I developed both the frontend and backend of the platform.
-  - _Tech stack:_ Technologies used
-  - _Link:_ [Project Link](https://tour-ug.vercel.app/)
   
 ## Let's Connect
 
